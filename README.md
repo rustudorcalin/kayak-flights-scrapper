@@ -19,3 +19,6 @@ Web scraping flights info from https://ro.kayak.com with Python.
 
 * When running the script, Chrome will open in the background (you can ignore it).
 ![](img/run.gif)
+
+### Disclaimer
+Inspired from https://github.com/manuelsilverio/scraping_kayak
